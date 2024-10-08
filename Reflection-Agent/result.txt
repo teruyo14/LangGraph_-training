@@ -1,0 +1,17 @@
+input:
+Make this tweet better about the Chicago Cubs:
+                                    The Cubs are on fire this season! 🔥
+            With incredible performances by the pitching staff and clutch hitting, they are looking like serious contenders.
+
+            Can't wait to see how they fare in the upcoming series against their rivals!
+
+            Let's go Cubbies! #Cubs
+
+
+output:
+Great feedback! Here's a revised tweet that incorporates specific player performances, energetic language, key matchups, and popular team slogans:
+
+"The Cubs are on fire this season! 🔥 
+Kyle Hendricks' pinpoint pitching and Kris Bryant's clutch hits are fueling our success. 
+Get ready for an epic showdown in the upcoming series against our rivals!
+ Let's rally together, Cubbies! #FlyTheW #EverybodyIn #GoCubsGo"
