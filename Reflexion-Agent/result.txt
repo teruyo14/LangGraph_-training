@@ -1,0 +1,9 @@
+input:
+Tell me about the Chicago Cubs, including their history, notable players, and recent performances.
+
+output:
+The Chicago Cubs, established in 1876, are one of Major League Baseball's oldest franchises. Initially named the Chicago White Stockings, they adopted the Cubs name in 1903. The team has a rich history, marked by a fierce rivalry with the St. Louis Cardinals and the iconic Wrigley Field, known for its ivy-covered walls.
+
+Historically, the Cubs won their first two World Series in 1907 and 1908 but faced a lengthy championship drought, famously referred to as the "Curse of the Billy Goat," which lasted until 2016. That year, they broke the curse by defeating the Cleveland Indians, marking their first title in 108 years.
+
+Notable players include Ernie Banks, Ryne Sandberg, and Greg Maddux, who are celebrated for their contributions to the team's legacy. In recent seasons, the Cubs have been competitive, finishing 83-79 in 2023, showcasing a blend of experienced talents like Cody Bellinger and emerging stars like Seiya Suzuki. The team's management underwent significant changes in 2024, with the hiring of Craig Counsell as manager, aiming to build on their recent successes and improve their playoff chances.
