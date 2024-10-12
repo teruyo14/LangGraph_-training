@@ -7,7 +7,7 @@ from langchain_openai import OpenAIEmbeddings
 load_dotenv()
 
 urls = [
-    # data
+    # data URL
 ]
 
 docs = [WebBaseLoader(url).load() for url in urls]
